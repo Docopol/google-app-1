@@ -8,8 +8,8 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-model_file_url = 'https://www.dropbox.com/s/y4kl2gv1akv7y4i/stage-2.pth?raw=1'
-model_file_name = 'model'
+model_file_url = 'https://drive.google.com/uc?export=download&id=1b-V5LqRvDry_p4YDAlMUwk13FIZIuFn5'
+model_file_name = 'export'
 classes = ['black', 'grizzly', 'teddys']
 path = Path(__file__).parent
 
